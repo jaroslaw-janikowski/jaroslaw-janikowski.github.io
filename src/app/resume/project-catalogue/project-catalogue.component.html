@@ -1,0 +1,11 @@
+<ngb-carousel *ngIf="items" class="bg-info">
+  <ng-template ngbSlide *ngFor="let item of items; index as i">
+    <div class="picsum-img-wrapper text-center">
+      <img [src]="item.screenshots[0].mini" alt="{{ item.name }}">
+    </div>
+    <div class="carousel-caption bg-info opacity-8">
+      <h3>{{ item.name }}</h3>
+      <p>{{ item.description }}</p>
+    </div>
+  </ng-template>
+</ngb-carousel>

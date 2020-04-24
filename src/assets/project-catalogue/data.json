@@ -1,0 +1,92 @@
+{
+    "projects": [
+        {
+            "name": "eZD",
+            "description": "Elektroniczny system obiegu dokumentów w urzędzie.",
+            "screenshots": [
+                {
+                    "mini": "/assets/project-catalogue/eZD/ezd_1.min.png",
+                    "full": "/assets/project-catalogue/eZD/ezd_1.png"
+                },
+                {
+                    "mini": "/assets/project-catalogue/eZD/ezd_2.min.png",
+                    "full": "/assets/project-catalogue/eZD/ezd_2.png"
+                },
+                {
+                    "mini": "/assets/project-catalogue/eZD/ezd_3.min.png",
+                    "full": "/assets/project-catalogue/eZD/ezd_3.png"
+                },
+                {
+                    "mini": "/assets/project-catalogue/eZD/ezd_4.min.png",
+                    "full": "/assets/project-catalogue/eZD/ezd_4.png"
+                }
+            ]
+        },
+        {
+            "name": "xforms2-sys",
+            "description": "Katalog formularzy CRWDE oraz narzędzia wspomagające ich tworzenie.",
+            "screenshots": [
+                {
+                    "mini": "/assets/project-catalogue/xforms2-sys/xforms2-sys_1.min.png",
+                    "full": "/assets/project-catalogue/xforms2-sys/xforms2-sys_1.png"
+                },
+                {
+                    "mini": "/assets/project-catalogue/xforms2-sys/xforms2-sys_2.min.png",
+                    "full": "/assets/project-catalogue/xforms2-sys/xforms2-sys_2.png"
+                },
+                {
+                    "mini": "/assets/project-catalogue/xforms2-sys/xforms2-sys_3.min.png",
+                    "full": "/assets/project-catalogue/xforms2-sys/xforms2-sys_3.png"
+                },
+                {
+                    "mini": "/assets/project-catalogue/xforms2-sys/xforms2-sys_4.min.png",
+                    "full": "/assets/project-catalogue/xforms2-sys/xforms2-sys_4.png"
+                }
+            ]
+        },
+        {
+            "name": "ezd-client-additions",
+            "description": "Narzędzie integrujące projekt eZD z pulpitem użytkownika.",
+            "screenshots": [
+                {
+                    "mini": "/assets/project-catalogue/ezd-client-additions/eca_1.min.png",
+                    "full": "/assets/project-catalogue/ezd-client-additions/eca_1.png"
+                },
+                {
+                    "mini": "/assets/project-catalogue/ezd-client-additions/eca_2.min.png",
+                    "full": "/assets/project-catalogue/ezd-client-additions/eca_2.png"
+                },
+                {
+                    "mini": "/assets/project-catalogue/ezd-client-additions/eca_3.min.png",
+                    "full": "/assets/project-catalogue/ezd-client-additions/eca_3.png"
+                },
+                {
+                    "mini": "/assets/project-catalogue/ezd-client-additions/eca_4.min.png",
+                    "full": "/assets/project-catalogue/ezd-client-additions/eca_4.png"
+                }
+            ]
+        },
+        {
+            "name": "ezd-instalator",
+            "description": "System budowania, instalacji i rozporowadzania poprawek dla projektu eZD.",
+            "screenshots": [
+                {
+                    "mini": "/assets/project-catalogue/ezd-instalator/ezd-instalator_1.min.png",
+                    "full": "/assets/project-catalogue/ezd-instalator/ezd-instalator_1.png"
+                },
+                {
+                    "mini": "/assets/project-catalogue/ezd-instalator/ezd-instalator_2.min.png",
+                    "full": "/assets/project-catalogue/ezd-instalator/ezd-instalator_2.png"
+                },
+                {
+                    "mini": "/assets/project-catalogue/ezd-instalator/ezd-instalator_3.min.png",
+                    "full": "/assets/project-catalogue/ezd-instalator/ezd-instalator_3.png"
+                },
+                {
+                    "mini": "/assets/project-catalogue/ezd-instalator/ezd-instalator_4.min.png",
+                    "full": "/assets/project-catalogue/ezd-instalator/ezd-instalator_4.png"
+                }
+            ]
+        }
+    ]
+}
