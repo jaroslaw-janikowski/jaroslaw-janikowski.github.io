@@ -6,6 +6,8 @@ import { HttpClientModule } from '@angular/common/http';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { ResumeModule } from './resume/resume.module';
+import { ArticlesModule } from './articles/articles.module';
+import { ProjectsModule } from './projects/projects.module';
 
 @NgModule({
   declarations: [
@@ -16,6 +18,8 @@ import { ResumeModule } from './resume/resume.module';
     AppRoutingModule,
     NgbModule,
     HttpClientModule,
+    ArticlesModule,
+    ProjectsModule,
     ResumeModule
   ],
   providers: [],
