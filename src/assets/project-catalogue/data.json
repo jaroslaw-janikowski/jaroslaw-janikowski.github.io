@@ -15,10 +15,6 @@
                 {
                     "mini": "/assets/project-catalogue/eZD/ezd_3.min.png",
                     "full": "/assets/project-catalogue/eZD/ezd_3.png"
-                },
-                {
-                    "mini": "/assets/project-catalogue/eZD/ezd_4.min.png",
-                    "full": "/assets/project-catalogue/eZD/ezd_4.png"
                 }
             ]
         },
@@ -51,18 +47,6 @@
                 {
                     "mini": "/assets/project-catalogue/ezd-client-additions/eca_1.min.png",
                     "full": "/assets/project-catalogue/ezd-client-additions/eca_1.png"
-                },
-                {
-                    "mini": "/assets/project-catalogue/ezd-client-additions/eca_2.min.png",
-                    "full": "/assets/project-catalogue/ezd-client-additions/eca_2.png"
-                },
-                {
-                    "mini": "/assets/project-catalogue/ezd-client-additions/eca_3.min.png",
-                    "full": "/assets/project-catalogue/ezd-client-additions/eca_3.png"
-                },
-                {
-                    "mini": "/assets/project-catalogue/ezd-client-additions/eca_4.min.png",
-                    "full": "/assets/project-catalogue/ezd-client-additions/eca_4.png"
                 }
             ]
         },
@@ -73,18 +57,6 @@
                 {
                     "mini": "/assets/project-catalogue/ezd-instalator/ezd-instalator_1.min.png",
                     "full": "/assets/project-catalogue/ezd-instalator/ezd-instalator_1.png"
-                },
-                {
-                    "mini": "/assets/project-catalogue/ezd-instalator/ezd-instalator_2.min.png",
-                    "full": "/assets/project-catalogue/ezd-instalator/ezd-instalator_2.png"
-                },
-                {
-                    "mini": "/assets/project-catalogue/ezd-instalator/ezd-instalator_3.min.png",
-                    "full": "/assets/project-catalogue/ezd-instalator/ezd-instalator_3.png"
-                },
-                {
-                    "mini": "/assets/project-catalogue/ezd-instalator/ezd-instalator_4.min.png",
-                    "full": "/assets/project-catalogue/ezd-instalator/ezd-instalator_4.png"
                 }
             ]
         }
